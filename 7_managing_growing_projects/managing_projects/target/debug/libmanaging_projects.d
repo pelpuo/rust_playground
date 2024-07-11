@@ -1,0 +1,1 @@
+/home/ekayang/Documents/Github/rust_playground/7_managing_growing_projects/managing_projects/target/debug/libmanaging_projects.rlib: /home/ekayang/Documents/Github/rust_playground/7_managing_growing_projects/managing_projects/src/lib.rs
